@@ -9,8 +9,8 @@ Content-Type: application/json
 {
 	"reportedBy": "A CK P",
 	"reporterEmail": "ackp@email.com",
-	"issueType": "Issue 1",
-	"multimedia": "xyz.png",
+	"issueType": "Sewage Flow",
+	"multimedia": "Random.png",
 	"location": "Some Coordinates",
 	"description": "This particular ghaat is very dirty",
 	"resolved": false
