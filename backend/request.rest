@@ -1,5 +1,5 @@
 ### GET
-GET http://localhost:8000/api/reports/
+GET https://jamuna-sense-backend.vercel.app/api/reports/
 
 
 ### POST
